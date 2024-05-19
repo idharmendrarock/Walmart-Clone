@@ -16,13 +16,12 @@ arduino
 # Installation
 Clone the repository
 
-sh
 Copy code
 git clone 
 cd walmart-clone
 Install dependencies
 
-sh
+
 Copy code
 npm install
 Set up Firebase
@@ -32,7 +31,6 @@ Add a new web app to your Firebase project.
 Copy the Firebase configuration and replace the dummy config in src/firebase.js.
 Run the application
 
-sh
 Copy code
 npm start
 Usage
