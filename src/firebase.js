@@ -1,19 +1,19 @@
 // Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
+import { initializeApp } from "firebase/app";
 
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCQm5uSJGgg1Jy0ZLyPoxxGR5QvBr8VsZ4",
-  authDomain: "walmart-7ac85.firebaseapp.com",
-  projectId: "walmart-7ac85",
-  storageBucket: "walmart-7ac85.appspot.com",
-  messagingSenderId: "829361306325",
-  appId: "1:829361306325:web:8b30d2dee234b35249805c"
+  apiKey: "AIzaSyC48zvJG3AhCRyOStOFbyrlv1TYxMRf10U",
+  authDomain: "walmart-609ff.firebaseapp.com",
+  projectId: "walmart-609ff",
+  storageBucket: "walmart-609ff.appspot.com",
+  messagingSenderId: "808894233278",
+  appId: "1:808894233278:web:165dcb6eb0e6d5a0883cef"
 };
 
 // Initialize Firebase
